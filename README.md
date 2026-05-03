@@ -34,7 +34,9 @@ Average resolution time by complaint type
 **Files in this Repository**
 
 notebooks/ → Python data cleaning and preparation
+
 dashboard/ → Power BI report and exported visuals
+
 README.md → Project documentation
 
 **Data Source**
